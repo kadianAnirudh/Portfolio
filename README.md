@@ -2,7 +2,7 @@
 
 <h3> React JS + Sanity io </h3> 
 
-<p>  <a href="https://meek-lily-ff9ef7.netlify.app/"> Live View </a> </p>
+<p>  <a href="https://lively-mermaid-75487c.netlify.app/"> Live View </a> </p>
 
 <p>  • This is one of the best portfolios you would ever come across for a Junior developer, or for someone who has 1> years of experience. </p>
 
