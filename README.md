@@ -14,4 +14,4 @@
 
 <p>  • This project is completely screen responsive, with the navbar disappering and sidebar appearing in mobile phones. </p>
 
-<p>  • The link to view a video demo of this project is : <a href="https://www.youtube.com/watch?v=_Pp7UiazTYE&ab_channel=AnirudhKadian"> Portfolio video demo </a> </p>
+<p>  • The link to view a video demo of this project is : <a href="https://youtu.be/Fg2ncxoZ9fk"> Portfolio video demo </a> </p>
